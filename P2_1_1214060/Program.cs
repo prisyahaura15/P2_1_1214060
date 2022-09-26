@@ -16,8 +16,8 @@ namespace P2_1_1214060
             Console.Write("input nilai dua: ");
             int angka2 = int.Parse(Console.ReadLine());
 
-            double penjumlahan = angka1 + angka2;
-            Console.WriteLine("{0} + {1} = {2}", angka1, angka2, penjumlahan);
+            double penambahan = angka1 + angka2;
+            Console.WriteLine("{0} + {1} = {2}", angka1, angka2, penambahan);
 
             double pengurangan = angka1 - angka2;
             Console.WriteLine("{0} - {1} = {2}", angka1, angka2, pengurangan);
